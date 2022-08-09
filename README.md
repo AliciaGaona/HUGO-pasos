@@ -19,7 +19,7 @@ Versión para usar Chocolatey/Windows 10
     
     ![image](https://user-images.githubusercontent.com/99162884/183562989-823062bd-4b2b-4094-92a4-73b456864fd4.png)
     
-  - Utilizar comando para instalar Chocolatey, el paso a paso => (https://www.solvetic.com/tutoriales/article/8886-instalar-chocolatey-en-windows-10/)[Pasos instalar Chocolatey]
+  - Utilizar comando para instalar Chocolatey, el paso a paso => [Pasos instalar Chocolatey](https://www.solvetic.com/tutoriales/article/8886-instalar-chocolatey-en-windows-10/)
   
   - Verificar versión de choco
     
@@ -28,10 +28,10 @@ Versión para usar Chocolatey/Windows 10
     
 
 2. Instalar HUGO en tu PC, 
-(https://gohugo.io/getting-started/installing/)[instalar HUGO]
+[instalar HUGO](https://gohugo.io/getting-started/installing/)
 
 ![image](https://user-images.githubusercontent.com/99162884/183563531-6036200e-d8d5-492d-a131-e879aacae2a1.png)
 
 
-3. Elegir tema, es muy importante revisar que sea compatible con la versión de HUGO instalada (https://themes.gohugo.io)[Temas Hugo]
+3. Elegir tema, es muy importante revisar que sea compatible con la versión de HUGO instalada [Temas Hugo](https://themes.gohugo.io)
 
