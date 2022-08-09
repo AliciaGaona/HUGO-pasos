@@ -53,11 +53,14 @@ Versión para usar Chocolatey/Windows 10
 
 `git add submodule git@github.com:AliciaGaona/hugo-theme-sam.git themes/hugo-theme-sam`
 
-__git add submodule__-agregar nuevo submódulo
 
-__git@github.com:AliciaGaona/hugo-theme-sam.git__ - url de GitHub del fork del tema(la url para clonar repositorio)
+| Fragmento comando | Explicación|
+| ------------ | ------- |
+| __git add submodule__ | agregar nuevo submódulo|
+| __git@github.com:AliciaGaona/hugo-theme-sam.git__ | url de GitHub del fork del tema(la url para clonar repositorio) |
+| __themes/hugo-theme-sam__ | ruta donde se hará el submódulo |
 
-__themes/hugo-theme-sam__ - ruta donde se hará el submódulo
+
 
 8. Realizar commit de nuevo submódulo, el resultado sería algo así:
 
