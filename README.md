@@ -44,11 +44,26 @@ Versión para usar Chocolatey/Windows 10
 
 ![image](https://user-images.githubusercontent.com/99162884/183564961-18d88ec8-f3ed-4a5d-b183-82b253f7a9c1.png)
 
-5. Crear un nuevo sitio HUGO por medio de la línea de comando (en mi caso uso directamente git bash) comando => hugo new nombreDelSitio
+5. Crear un nuevo sitio HUGO por medio de la línea de comando (en mi caso uso directamente git bash) comando =>  `hugo new nombreDelSitio`
 6. Subir el proyecto que te creo HUGO a tu repositorio de GitHub. Lo anterior se realiza versioanndo tu proyecto y enviando commit de todo tu proyecto.
 
 ![image](https://user-images.githubusercontent.com/99162884/183565655-a4cd244c-7402-4a35-9f9e-73f8e9356c24.png)
 
-7. Hay que enlazar los repositorios por medio de submodulos de GitHub, en el rep que te creo HUGO crearemos un submódulo en una carpeta llamada themes, muy importante que la carpeta que gurade este submódulo tenga el mismo nombre de tu tema. en este caso la ruta seria algo asi  themes/hugo-theme-sam
+7. Hay que enlazar los repositorios por medio de submodulos de GitHub, en el rep que te creo HUGO crearemos un submódulo en una carpeta llamada themes, muy importante que la carpeta que gurade este submódulo tenga el mismo nombre de tu tema. en este caso la ruta seria algo asi  `themes/hugo-theme-sam`
+
+`git add submodule git@github.com:AliciaGaona/hugo-theme-sam.git themes/hugo-theme-sam`
+
+__git add submodule__-agregar nuevo submódulo
+__git@github.com:AliciaGaona/hugo-theme-sam.git__ - url de GitHub del fork del tema(la url para clonar repositorio)
+__themes/hugo-theme-sam__ - ruta donde se hará el submódulo
+
+8. Realizar commit de nuevo submódulo, el resultado sería algo así:
+
+![image](https://user-images.githubusercontent.com/99162884/183567253-bf10bdac-cf4f-475d-aed9-af0b41f836ed.png)
+
+9. 
+
+
+
 
 
