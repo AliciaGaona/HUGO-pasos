@@ -33,15 +33,22 @@ Versión para usar Chocolatey/Windows 10
 ![image](https://user-images.githubusercontent.com/99162884/183563531-6036200e-d8d5-492d-a131-e879aacae2a1.png)
 
 
-3. Elegir tema, es muy importante revisar que sea compatible con la versión de HUGO instalada [Temas Hugo](https://themes.gohugo.io)
+3. Elegir tema, es muy importante revisar que sea compatible con la versión de HUGO instalada [Temas Hugo](https://themes.gohugo.io), para acceder al tema le das click y aparecerán las carateristicas, para acceder el repo original dar click en botón download
 
 ![image](https://user-images.githubusercontent.com/99162884/183565145-f4f8efb4-b407-4fe2-bf1e-375c3fc7c5ee.png)
 
+![image](https://user-images.githubusercontent.com/99162884/183565439-e2e331d0-c2d1-4218-89e1-063b80e67b7d.png)
 
-4. Crear un Fork del tema elegido en tu repositorio de github.[Link de tema elegido de HUGO](https://themes.gohugo.io/themes/hugo-theme-sam/)
+
+4. Crear un Fork del tema elegido en tu repositorio de GitHub.[Link de tema elegido de HUGO](https://themes.gohugo.io/themes/hugo-theme-sam/)
 
 ![image](https://user-images.githubusercontent.com/99162884/183564961-18d88ec8-f3ed-4a5d-b183-82b253f7a9c1.png)
 
 5. Crear un nuevo sitio HUGO por medio de la línea de comando (en mi caso uso directamente git bash) comando => hugo new nombreDelSitio
-6. Subir el proyecto que te genero HUGO a tu repositorio de GitHub. Lo anterior se realiza versioanndo tu proyecto y enviando commit de todo tu proyecto.
-8. 
+6. Subir el proyecto que te creo HUGO a tu repositorio de GitHub. Lo anterior se realiza versioanndo tu proyecto y enviando commit de todo tu proyecto.
+
+![image](https://user-images.githubusercontent.com/99162884/183565655-a4cd244c-7402-4a35-9f9e-73f8e9356c24.png)
+
+7. Hay que enlazar los repositorios por medio de submodulos de GitHub, en el rep que te creo HUGO crearemos un submódulo en una carpeta llamada themes, muy importante que la carpeta que gurade este submódulo tenga el mismo nombre de tu tema. en este caso la ruta seria algo asi  themes/hugo-theme-sam
+
+
