@@ -30,3 +30,6 @@ Versión para usar Chocolatey/Windows 10
 2. Instalar HUGO en tu PC, 
 (https://gohugo.io/getting-started/installing/)[instalar HUGO]
 
+![image](https://user-images.githubusercontent.com/99162884/183563531-6036200e-d8d5-492d-a131-e879aacae2a1.png)
+
+
