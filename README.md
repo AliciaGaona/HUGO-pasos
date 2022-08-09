@@ -33,3 +33,5 @@ Versión para usar Chocolatey/Windows 10
 ![image](https://user-images.githubusercontent.com/99162884/183563531-6036200e-d8d5-492d-a131-e879aacae2a1.png)
 
 
+3. Elegir tema, es muy importante revisar que sea compatible con la versión de HUGO instalada (https://themes.gohugo.io)[Temas Hugo]
+
