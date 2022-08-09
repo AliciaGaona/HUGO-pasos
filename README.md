@@ -20,6 +20,11 @@ Versión para usar Chocolatey/Windows 10
     ![image](https://user-images.githubusercontent.com/99162884/183562989-823062bd-4b2b-4094-92a4-73b456864fd4.png)
     
   - Utilizar comando para instalar Chocolatey, el paso a paso => (https://www.solvetic.com/tutoriales/article/8886-instalar-chocolatey-en-windows-10/)[Pasos instalar Chocolatey]
+  
+  - Verificar versión de choco
+    
+    ![image](https://user-images.githubusercontent.com/99162884/183563441-02d20d16-adff-42b8-8da6-b47e18dda42d.png)
+
     
 
 2. Instalar HUGO en tu PC, 
