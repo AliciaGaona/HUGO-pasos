@@ -111,6 +111,9 @@ __Importante__ si clonaste el repo de cero hay que inicializar y actualizar el s
  
 16. Entra a la carpeta public donde esta el submódulo que apunta a todo este repo con la información necesaria que HUGO necesita para levantar el sitio,y realiza un commit de los cambios.
 
+![image](https://user-images.githubusercontent.com/99162884/183972548-fe9b731b-4caf-46bb-884b-9565c74d5f81.png)
+
+17. Sal de public y realiza un commit para que se actualicé el id de commit de public y tengamos una unión correcta.
 
 17. Entra a tu repo donde levantaremos el sitio y activa el git Pages
  
