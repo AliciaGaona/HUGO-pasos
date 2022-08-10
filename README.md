@@ -105,7 +105,13 @@ __Importante__ si clonaste el repo de cero hay que inicializar y actualizar el s
 ![image](https://user-images.githubusercontent.com/99162884/183966332-57637606-da7e-49c6-b6b1-448edd687457.png)
 
 15. Contruye tu sitio conm HUGO, esto se refiere a que HUGO tomará lo ue necesita de tu repositorio con todo el contenido y lo pondrá en este repo vacío, utiliza el comando  `hugo -D`
+
+![hugooo](https://user-images.githubusercontent.com/99162884/183971327-b4da9233-e5b6-4a39-9faa-97b90ee9113f.JPG)
+ aqui podemos observar como HUGO agrego todos estos archivos en public.
+ 
 16. Entra a la carpeta public donde esta el submódulo que apunta a todo este repo con la información necesaria que HUGO necesita para levantar el sitio,y realiza un commit de los cambios.
+
+
 17. Entra a tu repo donde levantaremos el sitio y activa el git Pages
  
  
