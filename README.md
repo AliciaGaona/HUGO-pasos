@@ -76,7 +76,7 @@ __Importante__ si clonaste el repo de cero hay que inicializar y actualizar el s
 
 ![2022-08-10 02_21_35-Window](https://user-images.githubusercontent.com/99162884/183839869-1e75c074-399d-4e01-b8b5-c91ac3b70c16.png)
 
-![2022-08-10 02_22_21-Window](https://user-images.githubusercontent.com/99162884/183839985-9f7ea993-5f69-4948-8d1f-89812bd521be.png)
+![2022-08-10 02_22_21-Window](https://user-images.githubusercontent.com/99162884/183842185-b43cb98b-db30-4c9d-b91d-243bae673563.png)
 
 
 11. Probar sitio en tu local, con el comando `hugo server`
