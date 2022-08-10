@@ -115,7 +115,9 @@ __Importante__ si clonaste el repo de cero hay que inicializar y actualizar el s
 
 17. Sal de public y realiza un commit para que se actualicé el id de commit de public y tengamos una unión correcta.
 
-17. Entra a tu repo donde levantaremos el sitio y activa el git Pages
+![commitpublic](https://user-images.githubusercontent.com/99162884/183973164-2a395e37-d969-44d2-b324-ca4a3c09dfb2.JPG)
+
+18. Entra a tu repo donde levantaremos el sitio y activa el git Pages
  
  
  
