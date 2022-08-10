@@ -66,10 +66,13 @@ Versión para usar Chocolatey/Windows 10
 
 ![image](https://user-images.githubusercontent.com/99162884/183567253-bf10bdac-cf4f-475d-aed9-af0b41f836ed.png)
 
-9. Copiar todo el contenido que venga en ExampleSite en el repo del tema
+9. Copiar todo el contenido que venga en ExampleSite en el repo del temay hacer commit
 
 ![image](https://user-images.githubusercontent.com/99162884/183568567-a9731270-74ad-4efc-9e10-dfd06bc6cb61.png)
 
+__Importante__ si clonaste el repo de cero hay que inicializar y actualizar el submodulo
+
+10. 
 
 
 
