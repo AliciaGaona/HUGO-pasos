@@ -93,7 +93,22 @@ __Importante__ si clonaste el repo de cero hay que inicializar y actualizar el s
 
 
 
-13. Realuizar despliegue de página
+13. Realizar despliegue de página:
+  - Crear un repositorio vacio desde GitHub(aui es donde usaremos gitPages para levantarlo)
+  - Recomendación: agregarle el archivo readme.md para que no este completamente vacio y evitar errores
+  - En tu repositorio HUGO(repo que tiene la información de tus post y toda la estructura del blog), aquí crearemos un submódulo en la carpeta public, este submódulo apuntará a tu repo vacío, con el siguiente comando:
 
+ `git submodule add git@github.com:AliciaGaona/SoyAlice.git public`
+ 
+14. Verifica que el submódulo se creo de forma correcta, se tiene que ver algo así:
+
+![image](https://user-images.githubusercontent.com/99162884/183966332-57637606-da7e-49c6-b6b1-448edd687457.png)
+
+15. Contruye tu sitio conm HUGO, esto se refiere a que HUGO tomará lo ue necesita de tu repositorio con todo el contenido y lo pondrá en este repo vacío, utiliza el comando  `hugo -D`
+16. Entra a la carpeta public donde esta el submódulo que apunta a todo este repo con la información necesaria que HUGO necesita para levantar el sitio,y realiza un commit de los cambios.
+17. Entra a tu repo donde levantaremos el sitio y activa el git Pages
+ 
+ 
+ 
 
 
