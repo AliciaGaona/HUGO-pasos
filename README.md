@@ -72,7 +72,12 @@ Versión para usar Chocolatey/Windows 10
 
 __Importante__ si clonaste el repo de cero hay que inicializar y actualizar el submodulo
 
-10. 
+10. Verificar que en tu archivo de configuración se tenga el nombre del tema igual al del fihcero de submodulo creado
+
+![2022-08-10 02_21_35-Window](https://user-images.githubusercontent.com/99162884/183839869-1e75c074-399d-4e01-b8b5-c91ac3b70c16.png)
+
+![2022-08-10 02_21_35-Window](https://user-images.githubusercontent.com/99162884/183839985-9f7ea993-5f69-4948-8d1f-89812bd521be.png)
+
 
 
 
