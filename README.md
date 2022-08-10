@@ -81,10 +81,15 @@ __Importante__ si clonaste el repo de cero hay que inicializar y actualizar el s
 
 11. Probar sitio en tu local, con el comando `hugo server`
 
+
+
+
+![2022-08-10 02_24_39-Window](https://user-images.githubusercontent.com/99162884/183841852-f4974364-acbe-47ab-bc46-b3e29b19070c.png)
+
+
 12. Agregar tu información, algunos temas o la mayoría te dicen donde puedes cambiarlos
 
-
-
+![Captura](https://user-images.githubusercontent.com/99162884/183841967-12811aff-b3a8-4209-bc9c-d6ac60e0f781.JPG)
 
 
 
