@@ -81,7 +81,8 @@ __Importante__ si clonaste el repo de cero hay que inicializar y actualizar el s
 
 11. Probar sitio en tu local, con el comando `hugo server`
 
-![2022-08-10 02_21_35-Window](https://user-images.githubusercontent.com/99162884/183840381-39d26533-e4ea-4516-93b0-4c6828451978.png)
+![2022-08-10 02_21_35-Window](https://user-images.githubusercontent.com/99162884/183840498-184b7987-1fe5-479d-9c3c-163c71b2e981.png)
+
 
 
 
