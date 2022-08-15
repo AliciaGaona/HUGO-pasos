@@ -44,7 +44,7 @@ Versión para usar Chocolatey/Windows 10
 
 ![image](https://user-images.githubusercontent.com/99162884/183564961-18d88ec8-f3ed-4a5d-b183-82b253f7a9c1.png)
 
-5. Crear un nuevo sitio HUGO por medio de la línea de comando (en mi caso uso directamente git bash) comando =>  `hugo new nombreDelSitio`
+5. Crear un nuevo sitio HUGO por medio de la línea de comando (en mi caso uso directamente git bash) comando =>  `hugo new site nombreDelSitio`
 6. Subir el proyecto que te creo HUGO a tu repositorio de GitHub. Lo anterior se realiza versioanndo tu proyecto y enviando commit de todo tu proyecto.
 
 ![image](https://user-images.githubusercontent.com/99162884/183565655-a4cd244c-7402-4a35-9f9e-73f8e9356c24.png)
