@@ -119,7 +119,7 @@ __Importante__ si clonaste el repo de cero hay que inicializar y actualizar el s
 
 18. Entra a tu repo donde levantaremos el sitio y activa el git Pages.
  
- 
+  
  
 
 
