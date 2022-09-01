@@ -19,7 +19,7 @@ Versión para usar Chocolatey/Windows 10
     
     ![image](https://user-images.githubusercontent.com/99162884/183562989-823062bd-4b2b-4094-92a4-73b456864fd4.png)
     
-  - Utilizar comando para instalar Chocolatey, el paso a paso => [Pasos instalar Chocolatey](https://www.solvetic.com/tutoriales/article/8886-instalar-chocolatey-en-windows-10/)
+  - Utilizar comando para instalar Chocolatey, el paso a paso => [Pasos instalar Chocolatey](https://gohugo.io/getting-started/installing/)
   
   - Verificar versión de choco
     
